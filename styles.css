@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+body{
+    background-color: lightskyblue;
+}
+.post{
+    width: 50%;
+    margin: auto;
+    background-color: white;
+    border: solid 2px black;
+    margin-bottom: 50px;
+}
+.post-header{
+    display: flex ;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+img{
+    width: 100%;
+}
+P{
+    padding: 10px;
+}
